@@ -1,0 +1,38 @@
+{
+  "activationCommands": {
+    "atom-workspace": [
+      "nuclide-quick-open:toggle-omni-search",
+      "nuclide-quick-open:toggle-quick-open",
+      "nuclide-quick-open:toggle-symbol-search",
+      "nuclide-quick-open:toggle-biggrep-search",
+      "nuclide-quick-open:toggle-openfilename-search"
+    ]
+  },
+  "dependencies": {
+    "nuclide-analytics": "0.0.18",
+    "nuclide-atom-helpers": "0.0.18",
+    "nuclide-client": "0.0.18",
+    "nuclide-commons": "0.0.18",
+    "nuclide-logging": "0.0.18",
+    "nuclide-ui-atom-input": "0.0.18",
+    "nuclide-ui-tabs": "0.0.18",
+    "object-assign": "2.0.0",
+    "react-classset": "0.0.2",
+    "react-for-atom": "0.13.6"
+  },
+  "description": "",
+  "devDependencies": {
+    "nuclide-atom-interfaces": "0.0.18"
+  },
+  "engines": {
+    "atom": ">=0.209.0"
+  },
+  "main": "./lib/main",
+  "name": "nuclide-quick-open",
+  "nuclide": {
+    "packageType": "Atom",
+    "testRunner": "apm"
+  },
+  "repository": "https://github.com/facebooknuclideapm/nuclide-quick-open",
+  "version": "0.0.18"
+}

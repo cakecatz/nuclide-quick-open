@@ -9,20 +9,20 @@
     ]
   },
   "dependencies": {
-    "nuclide-analytics": "0.0.19",
-    "nuclide-atom-helpers": "0.0.19",
-    "nuclide-client": "0.0.19",
-    "nuclide-commons": "0.0.19",
-    "nuclide-logging": "0.0.19",
-    "nuclide-ui-atom-input": "0.0.19",
-    "nuclide-ui-tabs": "0.0.19",
+    "nuclide-analytics": "0.0.20",
+    "nuclide-atom-helpers": "0.0.20",
+    "nuclide-client": "0.0.20",
+    "nuclide-commons": "0.0.20",
+    "nuclide-logging": "0.0.20",
+    "nuclide-ui-atom-input": "0.0.20",
+    "nuclide-ui-tabs": "0.0.20",
     "object-assign": "2.0.0",
     "react-classset": "0.0.2",
     "react-for-atom": "0.13.6"
   },
   "description": "",
   "devDependencies": {
-    "nuclide-atom-interfaces": "0.0.19"
+    "nuclide-atom-interfaces": "0.0.20"
   },
   "engines": {
     "atom": ">=0.209.0"
@@ -34,5 +34,5 @@
     "testRunner": "apm"
   },
   "repository": "https://github.com/facebooknuclideapm/nuclide-quick-open",
-  "version": "0.0.19"
+  "version": "0.0.20"
 }

@@ -1,19 +1,19 @@
 {
   "dependencies": {
-    "nuclide-analytics": "0.0.23",
-    "nuclide-atom-helpers": "0.0.23",
-    "nuclide-client": "0.0.23",
-    "nuclide-commons": "0.0.23",
-    "nuclide-logging": "0.0.23",
-    "nuclide-ui-atom-input": "0.0.23",
-    "nuclide-ui-tabs": "0.0.23",
+    "nuclide-analytics": "0.0.24",
+    "nuclide-atom-helpers": "0.0.24",
+    "nuclide-client": "0.0.24",
+    "nuclide-commons": "0.0.24",
+    "nuclide-logging": "0.0.24",
+    "nuclide-ui-atom-input": "0.0.24",
+    "nuclide-ui-tabs": "0.0.24",
     "object-assign": "2.0.0",
     "react-classset": "0.0.2",
     "react-for-atom": "0.13.6"
   },
   "description": "Provides quick open functionality in Nuclide",
   "devDependencies": {
-    "nuclide-atom-interfaces": "0.0.23"
+    "nuclide-atom-interfaces": "0.0.24"
   },
   "engines": {
     "atom": ">=1.0.0"
@@ -25,5 +25,5 @@
     "testRunner": "apm"
   },
   "repository": "https://github.com/facebooknuclideapm/nuclide-quick-open",
-  "version": "0.0.23"
+  "version": "0.0.24"
 }
